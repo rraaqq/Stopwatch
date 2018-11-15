@@ -1,7 +1,7 @@
 {
   "name": "stopwatch",
   "version": "0.1.0",
-  "homepage" : "http://rraaqq.github.io/stopwatch",
+  "homepage" : "./",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
